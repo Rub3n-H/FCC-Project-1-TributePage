@@ -1,7 +1,7 @@
 {
   "name": "michael-jackson-tribute-page",
   "version": "1.0.0",
-  "description": "",
+  "description": "First FCC project: tribute page to the King of Pop - Michael Jackson",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
